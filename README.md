@@ -11,4 +11,4 @@
   
 <h1 align="center">Segue um dos meu projetos</h1>
 
-<a href="https://github.com/JimCadaman/ChatBotCaad/blob/main/projeto_ia.py">Trabalho feito com a inteção de criar um chat bot para nosso atendimento da Faculdade</a>
+<a href="https://github.com/JimCadaman/ChatBotCaad/blob/main/projeto_ia.py">ChatBot</a>

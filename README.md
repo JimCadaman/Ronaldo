@@ -9,6 +9,6 @@
 - Ótimo em trabalho em grupo.
 - Fácil comunicação.
   
-<h1 align="center">Segue um dos meu projetos</h1>
+<h1 align="center">Segue um dos meu projetos!</h1>
 
 <a href="https://github.com/JimCadaman/ChatBotCaad/blob/main/projeto_ia.py">ChatBot</a>

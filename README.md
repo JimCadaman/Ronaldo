@@ -3,3 +3,9 @@
 
 -  Estou atual na area de T.I faz 6 anos.
 -  Meu perfil profissional se encontra em: [www.linkedin.com/in/ronaldo-lenine-6793262b7/)
+<h1 align="center">Sobre mim!</h1>
+
+- Sou uma pessoa que consegue aprender de uma forma rápida.
+- Ótimo em trabalho em grupo.
+- Fácil comunicação.
+  
